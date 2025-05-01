@@ -14,7 +14,7 @@ This project supports both **employers** and **job seekers** with role-based das
 
 ## Screenshots
 
-Check screenshots [**here**](screenshots/)
+Check screenshots [**HERE**](screenshots/)
 
 
 
