@@ -1,0 +1,5 @@
+Django>=5.2
+psycopg2-binary>=2.9  # Only if you're using PostgreSQL
+Pillow>=10.0          # For image uploads (profile pictures, resumes if needed)
+django-crispy-forms>=2.0
+crispy-bootstrap5>=2022.1
