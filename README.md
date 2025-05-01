@@ -23,7 +23,7 @@ This project is part of my personal portfolio.
 The full source code is **private**, but I'm happy to share it upon request or in interviews.
 
 
-## 👤 Author
+## Author
 
 **Yasin Shamsedini**  
 yasin.shamsedini@gmail.com  
