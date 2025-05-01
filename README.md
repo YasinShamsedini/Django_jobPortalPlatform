@@ -12,9 +12,10 @@ This project supports both **employers** and **job seekers** with role-based das
 - Clean, responsive UI (Bootstrap 5)
 
 
-## Demo Preview
+## Screenshots
 
-> Screenshots and/or video demo available upon request.
+Check screenshots [**here**](screenshots/)
+
 
 
 ## Code Access
